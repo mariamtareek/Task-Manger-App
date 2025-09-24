@@ -33,7 +33,6 @@ import { useTasksStore } from '../stores/useTasksStore';
 
 const tasksStore = useTasksStore()
 const categories = computed(() => tasksStore.categories)
-const formatDate = (date) => {
 
 const formatDate = (date) => {
     return new Date(date).toLocaleDateString("en-US", {
@@ -42,7 +41,6 @@ const formatDate = (date) => {
             day: "numeric",
         });
     };
-};
 
 onMounted(async () => {
     if (tasksStore.categories.length == 0) {
