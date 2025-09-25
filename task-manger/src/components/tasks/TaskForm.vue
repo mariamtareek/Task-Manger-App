@@ -4,7 +4,7 @@
             <div class="flex items-center gap-3">
                 <ArrowLeft @click="emit('back')" class="cursor-pointer" />
                 <div class="flex flex-col">
-                    <h2 class="font-semibold text-base">Add New Task </h2>
+                    <h2 class="font-semibold text-base">{{ selectedTask? 'Update Your Task ' : 'Add New Task ' }}</h2>
                     <p class=" font-light text-base">Fill in the details for your new task </p>
                 </div>
             </div>
