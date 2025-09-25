@@ -1,6 +1,6 @@
 # 📌 Task Manager Web Application  
 
-A responsive and interactive **Task Manager Web App** built as part of the **Osolutions Frontend Developer Technical Assessment**.  
+A responsive and interactive **Task Manager Web App** 
 This application allows users to manage tasks efficiently with features like task creation, editing, deletion, category-based filtering, and responsive design.  
 ---
 
