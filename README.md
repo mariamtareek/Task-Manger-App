@@ -49,7 +49,6 @@ Deployed version with Netlify -> https://task-manger-appp.netlify.app/
 
 ## App Images
 <img width="1470" height="802" alt="Screenshot 2025-09-25 at 3 06 44 AM" src="https://github.com/user-attachments/assets/2187e5a8-a588-4444-bd43-7d08ba7fc29e" />
-<img width="1470" height="802" alt="Screenshot 2025-09-25 at 3 07 05 AM" src="https://github.com/user-attachments/assets/85d11ab2-ea2e-4993-8fcc-79ff6faf02ad" />
 <img width="1000" height="506" alt="Screenshot 2025-09-18 at 11 57 02 AM" src="https://github.com/user-attachments/assets/c90f2114-4229-4bff-ad8a-0a736d1a8e5e" />
 <img width="1470" height="802" alt="Screenshot 2025-09-25 at 3 11 06 AM" src="https://github.com/user-attachments/assets/fa3020fe-93a1-4a10-8855-4d5f9da303e3" />
 <img width="1470" height="802" alt="Screenshot 2025-09-25 at 3 10 39 AM" src="https://github.com/user-attachments/assets/6bd9b340-f871-4cc7-8b8e-d343d369f9d3" />
