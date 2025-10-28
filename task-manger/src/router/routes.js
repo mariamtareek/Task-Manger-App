@@ -9,12 +9,14 @@ const routes = [
             {
                 path: '',
                 name: 'tasks',
-                component: () => import('../views/Tasks.vue')
+                component: () => import('../views/Tasks.vue'),
+                meta: { title: 'All Tasks' }
             },
             {
                 path: 'categories',
                 name: 'categories',
-                component: () => import('../views/Categories.vue')
+                component: () => import('../views/Categories.vue'),
+                meta: { title: 'All Categories' }
             }
         ] 
     },

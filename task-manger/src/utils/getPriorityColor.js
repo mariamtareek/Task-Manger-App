@@ -1,5 +1,5 @@
 const getPriorityColor = (priority) => {
-    switch (priority.toLowerCase()) {
+    switch (priority?.toLowerCase()) {
         case 'high':
             return 'bg-red-100 text-red-800 border-red-200';
         case 'medium':

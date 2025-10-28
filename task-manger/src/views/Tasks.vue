@@ -1,12 +1,12 @@
 <template>
     <div class="p-6 flex flex-col gap-5 flex-1">
-        <div class="flex justify-between items-center px-2 pb-4">
-            <div class="flex items-center gap-3">
+        <div class="flex justify-end items-center px-2">
+            <!-- <div class="flex items-center gap-3">
                 <button @click="$emit('toggleSidebar')" class="md:hidden p-2 rounded-md hover:bg-gray-100">
                     <Menu class="w-6 h-6" />
                 </button>
                 <h1 class="text-xl font-semibold">All Tasks</h1>
-            </div>
+            </div> -->
             <button @click="showAddForm = true"
                 class="px-4 py-2 rounded-lg cursor-pointer border border-black bg-black text-white hover:bg-white hover:text-black transition-all duration-100">
                 + Add Task

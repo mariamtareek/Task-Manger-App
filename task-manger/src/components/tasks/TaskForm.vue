@@ -1,6 +1,6 @@
 <template>
     <div class="fixed inset-0 bg-gray-100/70 flex justify-center items-center z-20" @click="emit('back')">
-        <div class="bg-white border border-gray-200 min-w-md px-5 py-3 flex flex-col gap-6 rounded-lg" @click.stop>
+        <div class="bg-white border border-gray-200 min-w-xs h-[85%] overflow-auto md:min-w-md md:h-auto px-5 py-3 flex flex-col gap-6 rounded-lg" @click.stop>
             <div class="flex items-center gap-3">
                 <ArrowLeft @click="emit('back')" class="cursor-pointer" />
                 <div class="flex flex-col">

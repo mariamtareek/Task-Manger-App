@@ -1,5 +1,5 @@
 <template>
-    <div class="p-6">
+    <div class="py-6 px-8">
         <h1 class="text-2xl font-bold mb-6">Task Categories</h1>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
